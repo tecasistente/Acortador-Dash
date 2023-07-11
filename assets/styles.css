@@ -1,0 +1,33 @@
+/* style.css */
+
+body {
+  background-color: #c0eaf0;
+}
+
+h1 {
+  margin-bottom: 4vh;
+}
+
+button{
+  margin:1em 1em 0.3em 0;
+  font-size: 1em;
+  width:6em;
+  height: 3em;
+}
+
+.container{
+  text-align: center;
+  width: 100%;
+  margin: 3.2rem auto 0 auto;
+}
+
+.input-text {
+  text-align: center;
+  width: 45vw;
+  font-size: 1.25em;
+}
+
+.output-container {
+  margin-top: 4vh;
+  font-size: 1.25em;
+}
